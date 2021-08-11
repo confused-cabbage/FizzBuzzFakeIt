@@ -1,0 +1,16 @@
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.csproj.AssemblyReference.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.AssemblyInfoInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.AssemblyInfo.cs
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.csproj.CoreCompileInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.exe
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.deps.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.runtimeconfig.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.runtimeconfig.dev.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\ref\FizzBuzzForFakeItEasy.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\bin\Debug\net5.0\FizzBuzzForFakeItEasy.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\ref\FizzBuzzForFakeItEasy.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\FizzBuzzForFakeItEasy\obj\Debug\net5.0\FizzBuzzForFakeItEasy.genruntimeconfig.cache

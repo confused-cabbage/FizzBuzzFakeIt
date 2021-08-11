@@ -1,0 +1,16 @@
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Documents\Notes\Sprint Einsteinium\Test Doubles\FizzBuzzForFakeItEasy\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

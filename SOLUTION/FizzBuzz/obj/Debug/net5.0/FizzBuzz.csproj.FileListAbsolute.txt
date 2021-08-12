@@ -1,0 +1,24 @@
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\rgreene\Desktop\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\Users\Rob.Greene\OneDrive - Core BTS\Notes\Sprint 06-09-2021\TDD\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
